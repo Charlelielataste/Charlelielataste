@@ -31,14 +31,14 @@ I am looking for an cooperative training course to pass the following diploma (R
 </p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/charlelie-lataste-b28860108/">
+  <a href="https://www.linkedin.com/in/charlelie-lataste-b28860108/" target="_blank">
     <img style="border-radius: 8px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:latastecharlelie@gmail.com">
-      <img style="border-radius: 8px;" src="https://img.shields.io/badge/Gmail-Gmail-red" alt="Gmail Badge Badge"/>
+  <a href="mailto:latastecharlelie@gmail.com" target="_blank">
+      <img style="border-radius: 8px;" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge Badge"/>
   </a>
-  <a href="https://www.instagram.com/thedevmot/">
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://charlelielataste.github.io/Portfolio/" target="_blank">
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebSite Badge"/>
   </a>
 </div>
 
