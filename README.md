@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-Hi !👋🏼 I'm Charlelie ! I live in Marseille. Nice to meet you <br>
-Passionate about computers (hardware and software), new technologies, video games...and coding of course,
+Hi !👋🏼 I'm Charlelie ! I live in Marseille. Nice to meet you ! 🤝 <br>
+Passionate about computers (hardware and software), new technologies, video games...and coding of course 💻.
 <br>
 In 2022, I chose to change my professional life and become a <strong>developper</strong> to provide digital solutions to problems encountered by everyone.<br>
 <br>
@@ -15,10 +15,10 @@ Please, take the time to look at my work ! 🙏
 
 <hr>
 
-## Past, Present, Future... 🔮
+## Who am i ❓
 
 <p align="center">
-🟣 Previously,<br> I was an accountant for seventeen years, during which time I developed my professional skills, both technical and human.<br><br>
+`#RRGGBB` Previously,<br> I was an accountant for seventeen years, during which time I developed my professional skills, both technical and human.<br><br>
 🟢Since 2022 and until today,<br> I have done everything possible to allow me to improve my skills in web development, thanks to intense training and the preparation of the defense of my professional title DWWM in front of a jury of two senior professionals. I also continued to practice while looking for a position in this universe that I like so much.<br><br>
 🟠 Soon,<br> I want to join a dynamic team that will make me participate in the development of captivating projects that will provide solutions to user requests.
 </p>
