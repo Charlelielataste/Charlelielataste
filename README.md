@@ -15,12 +15,12 @@ Please, take the time to look at my work ! 🙏
 
 <hr>
 
-## Who am i ❓
+## Who Am I ❓
 
 <p align="center">
 👴 Previously,<br> I was, for 7 years, a smartphone, tablet and computer repairer in small and large companies.<br><br>
 🧒 In 2022,<br> I completed my Fullstack Javascript training with O'Clock school. And I graduated RNCP level 5 ("Developpeur Web et Web Mobile").<br><br>
-🟠 Now,<br> 
+👶 Now,<br> 
 I am looking for an cooperative training course to pass the following diploma (RNCP level 6 "Concepteur Developpeur d'Application")
 </p>
 
@@ -44,9 +44,15 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 <hr>
 
-## Here are all my skills 🤩🤖👨🏻‍💻
+## My Skills 👨🏻‍💻
 
-|🤖BACKEND|🎨FRONTEND|🔧DATABASE|🎛️ARCHITECTURE|🔎VERSIONING|
+|🎨FRONTEND|
+
+<img style="border-radius: 8px;" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
+
+
+
+|🤖BACKEND||🔧DATABASE|🎛️ARCHITECTURE|🔎VERSIONING|
 |--|--|--|--|--|
 |nodeJS|HTML/CSS|SQL|Model Views Controllers (MVC)|Git / GitHub
 |Express Framework|JAVASCRIPT Vanilla|PostgreSQL - PgAdmin|API REST|SQITCH on Windows
@@ -66,13 +72,13 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 ## Here are all my stats 🔬🧪❇️
 
-<div align="center"><img src='https://streak-stats.demolab.com?user=FredGuiou&theme=cobalt&border_radius=20&background=0A2932'></div>
+<div align="center"><img src='https://streak-stats.demolab.com?user=Charlelielataste&theme=cobalt&border_radius=20&background=0A2932'></div>
 
 <br>
-<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=FredGuiou&show_icons=true&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=Charlelielataste&show_icons=true&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
 
 <br>
-<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FredGuiou&layout=compact&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Charlelielataste&layout=compact&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
 
 <br>
 <hr>
