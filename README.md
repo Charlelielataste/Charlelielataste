@@ -18,9 +18,10 @@ Please, take the time to look at my work ! 🙏
 ## Who am i ❓
 
 <p align="center">
-`#RRGGBB` Previously,<br> I was an accountant for seventeen years, during which time I developed my professional skills, both technical and human.<br><br>
-🟢Since 2022 and until today,<br> I have done everything possible to allow me to improve my skills in web development, thanks to intense training and the preparation of the defense of my professional title DWWM in front of a jury of two senior professionals. I also continued to practice while looking for a position in this universe that I like so much.<br><br>
-🟠 Soon,<br> I want to join a dynamic team that will make me participate in the development of captivating projects that will provide solutions to user requests.
+👴 Previously,<br> I was, for 7 years, a smartphone, tablet and computer repairer in small and large companies.<br><br>
+🧒 In 2022,<br> I completed my Fullstack Javascript training with O'Clock school. And I graduated RNCP level 5 ("Developpeur Web et Web Mobile").<br><br>
+🟠 Now,<br> 
+I am looking for an cooperative training course to pass the following diploma (RNCP level 6 "Concepteur Developpeur d'Application")
 </p>
 
 <hr>
@@ -30,11 +31,11 @@ Please, take the time to look at my work ! 🙏
 </p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/fredericguiou/">
+  <a href="https://www.linkedin.com/in/charlelie-lataste-b28860108/">
     <img style="border-radius: 8px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/TheDevMot">
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:latastecharlelie@gmail.com">
+      <img style="border-radius: 8px;" src="https://img.shields.io/badge/Gmail-Gmail-red" alt="Gmail Badge Badge"/>
   </a>
   <a href="https://www.instagram.com/thedevmot/">
     <img style="border-radius: 8px;" src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
