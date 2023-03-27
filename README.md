@@ -5,12 +5,12 @@
 <br>
 
 <p align="center">
-Hi everyone !👋🏼 I'm Fred ! I live in south of France around Marseille and Aix en Provence in a city called Auriol. <br>
-Passionate about computers, new technologies, cinema, tv shows and... my cat 😅,
-I like sharing with people all about this ! 🚀<br>
-In 2021, I chose to change my professional life and become a fullstack <strong>developper</strong> to provide digital solutions to problems encountered by everyone.<br>
-During this journey, I discovered incredible guys & girls.<br>
-Here is all I practiced from feb 2022 to now ! 💪🏼
+Hi !👋🏼 I'm Charlelie ! I live in Marseille. Nice to meet you <br>
+Passionate about computers (hardware and software), new technologies, video games...and coding of course,
+<br>
+In 2022, I chose to change my professional life and become a <strong>developper</strong> to provide digital solutions to problems encountered by everyone.<br>
+<br>
+Please, take the time to look at my work ! 🙏
 </p>
 
 <hr>
