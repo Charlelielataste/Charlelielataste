@@ -1,4 +1,4 @@
-<div align="center"><img style="border-radius: 8px;" src='./Github.png'></div>
+<div align="center"><img style="border-radius: 8px;" src='./GitHub.png'></div>
 
 <hr>
 
