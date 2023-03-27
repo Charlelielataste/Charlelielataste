@@ -46,6 +46,8 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 ## My Skills 👨🏻‍💻
 
+<br>
+
 🎨**FRONTEND**
 
 <hr>
