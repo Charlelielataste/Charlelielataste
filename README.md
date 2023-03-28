@@ -27,7 +27,7 @@ I am looking for an cooperative training course to pass the following diploma (R
 <hr>
 
 <p align="center">
-📡 You can contact me here ! 📡
+You can contact me here ! 📧
 </p>
 
 <div id="badges" align="center">
@@ -84,7 +84,7 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 <hr>
 
-<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/drafting%20specifications-green?style=for-the-badge&logo=none&logoColor=white" alt="specs Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/technical-monitoring-blue?style=for-the-badge&logo=none&logoColor=white" alt="follow Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/wireframes-purple?style=for-the-badge&logo=none&logoColor=white" alt="Wireframes Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/user-stories-red?style=for-the-badge&logo=none&logoColor=white" alt="user-stories Badge"/>
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Drafting%20specifications-green?style=for-the-badge&logo=none&logoColor=white" alt="specs Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Technical%20monitoring-blue?style=for-the-badge&logo=none&logoColor=white" alt="follow Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Wireframes-purple?style=for-the-badge&logo=none&logoColor=white" alt="Wireframes Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/User%20stories-red?style=for-the-badge&logo=none&logoColor=white" alt="user-stories Badge"/>
 
 <br>
 
@@ -110,10 +110,17 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> 
 
+<hr>
+
+## Soft Skills 🗿
+
+<br>
+
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Adaptable-green?style=for-the-badge&logo=none&logoColor=white" alt="adaptable Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Curious-blue?style=for-the-badge&logo=none&logoColor=white" alt="curious Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Autonomous-purple?style=for-the-badge&logo=none&logoColor=white" alt="Autonomous Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Work%20in%20group-red?style=for-the-badge&logo=none&logoColor=white" alt="Workingroup Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Ability%20to%20synthesize-yellow?style=for-the-badge&logo=none&logoColor=white" alt="Ability Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Ability%20to%20search%20for%20documentation-orange?style=for-the-badge&logo=none&logoColor=white" alt="Docs Badge"/>
 
 <hr>
 
-## Here are all my stats 🔬🧪❇️
+## My Stats 🔬
 
 <div align="center"><img src='https://streak-stats.demolab.com?user=Charlelielataste&theme=cobalt&border_radius=20&background=0A2932'></div>
 
