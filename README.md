@@ -138,7 +138,7 @@ You can contact me here ! 📧
 <hr>
 <p align="center">
 You can also check our project ! 
-At the end of our studies, we created the project [Develott](https://develott.fr/) and we are very proud of it ! 💪
+At the end of our studies, we created the project [Develott](https://develott.fr) and we are very proud of it ! 💪
 </p><br>
 <p align="center">
 Please, check our project and let me know what you think about it ! 🙏
