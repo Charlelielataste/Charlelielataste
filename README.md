@@ -60,7 +60,7 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 <hr>
 
-<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequilize Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> 
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequilize Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> 
 
 <br>
 
@@ -84,7 +84,31 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 <hr>
 
-<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/drafting-specifications-green?style=for-the-badge&logo=none&logoColor=white" alt="ESlint Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier Badge"/>
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/drafting%20specifications-green?style=for-the-badge&logo=none&logoColor=white" alt="specs Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/technical-monitoring-blue?style=for-the-badge&logo=none&logoColor=white" alt="follow Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/wireframes-purple?style=for-the-badge&logo=none&logoColor=white" alt="Wireframes Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/user-stories-red?style=for-the-badge&logo=none&logoColor=white" alt="user-stories Badge"/>
+
+<br>
+
+🗃 **VERSIONNING**
+
+<hr>
+
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>  
+
+<br>
+
+⭐ **OTHERS**
+
+<hr>
+
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/VSCode-1f425f.svg" alt="Vscode Badge"/>
+
+<br>
+
+🔋 **IN PROGRESS**
+
+<hr>
+
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> 
 
 
 <hr>
