@@ -110,6 +110,8 @@ You can contact me here ! 📧
 
 <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> 
 
+<br>
+
 <hr>
 
 ## Soft Skills 🗿
@@ -118,31 +120,28 @@ You can contact me here ! 📧
 
 <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Adaptable-green?style=for-the-badge&logo=none&logoColor=white" alt="adaptable Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Curious-blue?style=for-the-badge&logo=none&logoColor=white" alt="curious Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Autonomous-purple?style=for-the-badge&logo=none&logoColor=white" alt="Autonomous Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Work%20in%20group-red?style=for-the-badge&logo=none&logoColor=white" alt="Workingroup Badge"/> <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/Ability%20to%20synthesize-yellow?style=for-the-badge&logo=none&logoColor=white" alt="Ability Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/Ability%20to%20search%20for%20documentation-orange?style=for-the-badge&logo=none&logoColor=white" alt="Docs Badge"/>
 
+<br>
+
 <hr>
 
 ## My Stats 🔬
 
-<div align="center"><img src='https://streak-stats.demolab.com?user=Charlelielataste&theme=cobalt&border_radius=20&background=0A2932'></div>
+<div align="center"><img src='https://streak-stats.demolab.com?user=Charlelielataste&theme=blue-green&border_radius=20&background=0A2932'></div>
 
 <br>
-<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=Charlelielataste&show_icons=true&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api?username=Charlelielataste&theme=blue-green'></div>
 
 <br>
-<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Charlelielataste&layout=compact&theme=cobalt&border_radius=20&bg_color=0A2932'></div>
+<div align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Charlelielataste&theme=blue-green'></div>
 
 <br>
 <hr>
 <p align="center">
-In the "Pinned" category below you will find six works that offer insight into my technical skills. I also invite you to consult TP-DWWM-2022 in which you will find my professional title files presenting in particular the "Sonow" project, the entire code of which is also accessible to you.
+You can also check our project ! 
+At the end of our studies, we created the project [Develott](https://develott.fr/) and we are very proud of it ! 💪
 </p><br>
 <p align="center">
-Enjoy ! 😎
+Please, check our project and let me know what you think about it ! 🙏
 </p>
 
 <hr>
-Sources :
-
-* [Badges](https://shields.io/category/build)
-* [1st contribution for stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-* [2nd contribution for stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
-
