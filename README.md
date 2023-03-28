@@ -19,8 +19,8 @@ Please, take the time to look at my work ! 🙏
 
 <p align="center">
 👴 Previously,<br> I was, for 7 years, a smartphone, tablet and computer repairer in small and large companies.<br><br>
-🧒 In 2022,<br> I completed my Fullstack Javascript training with O'Clock school. And I graduated RNCP level 5 ("Developpeur Web et Web Mobile").<br><br>
-👶 Now,<br> 
+👶 In 2022,<br> I completed my Fullstack Javascript training with O'Clock school. And I graduated RNCP level 5 ("Developpeur Web et Web Mobile").<br><br>
+👦 Now,<br> 
 I am looking for an cooperative training course to pass the following diploma (RNCP level 6 "Concepteur Developpeur d'Application")
 </p>
 
@@ -72,28 +72,20 @@ I am looking for an cooperative training course to pass the following diploma (R
 
 <br>
 
-🖼 **Linters**
+🖼 **LINTERS**
 
 <hr>
 
 <img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESlint Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier Badge"/>
 
+<br>
 
-|🤖BACKEND||🔧DATABASE|🎛️ARCHITECTURE|🔎VERSIONING|
-|--|--|--|--|--|
-|nodeJS|HTML/CSS|SQL|Model Views Controllers (MVC)|Git / GitHub
-|Express Framework|JAVASCRIPT Vanilla|PostgreSQL - PgAdmin|API REST|SQITCH on Windows
-|Session & cookies|SASS (en cours)|Procedural Laguage // Functions - Views - Indexes|API GraphQL||
-|Authorization Json Web Token|React|NoSQL|||
-|DataMapper (queries) / Active Record (models)||MongoDB|||
-|ORM - Sequelize|||||
-|Security encrypt datas Bcrypt - Joi|||||
-|EJS Views|||||
+📚 **PROJECT MANAGEMENT**
 
-|🔬METHODS|🖍️CMS|🖥️PROGRAMING|🚀DEPLOYMENT|👨🏻‍💻DEVOPS|📄DOCUMENTATION|
-|--|--|--|--|--|--|
-|Agile (Scrum)|Strapi (introduction)|OOP (Object Oriented Programming)|Heroku (concept & methods)|Docker (notions)|JSdocs // SwaggerDocs (concept & how to do)|
-|Merise (CMD, GPM, PDM)||||||
+<hr>
+
+<img style="border-radius: 8px; font-size: 1px" src="https://img.shields.io/badge/drafting-specifications-green?style=for-the-badge&logo=none&logoColor=white" alt="ESlint Badge"/> <img style="border-radius: 8px;" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier Badge"/>
+
 
 <hr>
 
@@ -122,6 +114,4 @@ Sources :
 * [Badges](https://shields.io/category/build)
 * [1st contribution for stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 * [2nd contribution for stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
-
-Thanks to Yumicode, Zarwine & Megafredo for their design opinions 😊
 
